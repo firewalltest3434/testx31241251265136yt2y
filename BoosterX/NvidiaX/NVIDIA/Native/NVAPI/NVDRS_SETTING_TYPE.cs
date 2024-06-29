@@ -1,0 +1,17 @@
+﻿using System;
+
+namespace NvidiaX.NVIDIA.Native.NVAPI
+{
+	// Token: 0x0200084A RID: 2122
+	public enum NVDRS_SETTING_TYPE
+	{
+		// Token: 0x0400218A RID: 8586
+		NVDRS_DWORD_TYPE,
+		// Token: 0x0400218B RID: 8587
+		NVDRS_BINARY_TYPE,
+		// Token: 0x0400218C RID: 8588
+		NVDRS_STRING_TYPE,
+		// Token: 0x0400218D RID: 8589
+		NVDRS_WSTRING_TYPE
+	}
+}

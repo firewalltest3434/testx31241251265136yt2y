@@ -1,0 +1,79 @@
+﻿using System;
+using System.Collections.Generic;
+
+// Token: 0x020001F7 RID: 503
+internal sealed class Class268
+{
+	// Token: 0x04000779 RID: 1913
+	public static Dictionary<string, int> dictionary_0 = new Dictionary<string, int>
+	{
+		{
+			"wsearch",
+			5
+		},
+		{
+			"dnscache",
+			5
+		},
+		{
+			"sysmain",
+			4
+		},
+		{
+			"DPS",
+			4
+		},
+		{
+			"sbdhsvc",
+			3
+		},
+		{
+			"certpropsvc",
+			3
+		},
+		{
+			"staterepository",
+			2
+		},
+		{
+			"nlasvc",
+			2
+		},
+		{
+			"eventlog",
+			2
+		},
+		{
+			"storsvc",
+			2
+		},
+		{
+			"winhttpautoproxy",
+			1
+		},
+		{
+			"usermanager",
+			1
+		},
+		{
+			"wlansvc",
+			1
+		},
+		{
+			"BFE",
+			1
+		},
+		{
+			"mpssvc",
+			1
+		},
+		{
+			"Unistacksvc",
+			1
+		},
+		{
+			"fontcache",
+			1
+		}
+	};
+}
